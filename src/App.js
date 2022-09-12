@@ -5,8 +5,7 @@ function App() {
     <div>
       <h1>
         hello world
-        hello webbrain
-        hello webbrain
+       <h3>hi</h3>
        
       </h1>
     </div>

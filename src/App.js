@@ -6,9 +6,8 @@ function App() {
       <h1>
         hello world
         hello webbrain
-        <h2>git hubga ulandi</h2>
-        <h2>git hubga ulandi</h2>
-        <h2>git hubga ulanmadi</h2>
+        hello webbrain
+       
       </h1>
     </div>
   )

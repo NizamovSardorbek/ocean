@@ -9,7 +9,7 @@ function Navbar() {
       <Wordslar>About</Wordslar>
       <Wordslar>Services</Wordslar>
       <Wordslar>Revievs</Wordslar>
-      <Buttoncha>Get Started</Buttoncha><hr />
+      <Buttoncha>Get Starteed</Buttoncha><hr />
     </AllTop>
   );
 }

@@ -2,8 +2,8 @@ import styled from "styled-components";
 
 export const Wrap = styled.div`
   display: flex;
-  height: 420px;
-  margin: 40px 100px;
+  height: 250px;
+  margin: 0px 100px;
 `;
 export const ContactLeft = styled.div`
   flex: 1;

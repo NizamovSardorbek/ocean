@@ -8,7 +8,7 @@ function Navbar() {
       <Wordslar>Home</Wordslar>
       <Wordslar>About</Wordslar>
       <Wordslar>service</Wordslar>
-      <Wordslar>Revievs</Wordslar>
+      <Wordslar>Reviews</Wordslar>
       <Buttoncha>Get Starteed</Buttoncha><hr />
     </AllTop>
   );

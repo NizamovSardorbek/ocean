@@ -7,6 +7,7 @@ import Icons from './components/icons';
 import Contact from './components/contact';
 import Messengers from './components/messengers';
 import Navbar from './components/navbar';
+import Inputs from './components/inputs';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,6 +16,7 @@ root.render(
     <Bar/>
     <Bottombar/>
     <Icons/>
+    <Inputs/>
     <Contact/>
     <Messengers/>
   </React.StrictMode>

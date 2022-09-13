@@ -18,7 +18,7 @@ function Bar() {
   return (
     <Wrapper>
       <Left>
-        <Smart>SMART BUSINESS</Smart>
+        <Smart>SMART BUSINES</Smart>
         <Connecting>
           Connecting people is our <Business>business</Business>
         </Connecting>

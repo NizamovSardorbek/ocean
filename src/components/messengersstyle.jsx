@@ -3,10 +3,9 @@ import styled from "styled-components";
 export const WrapBottom = styled.div`
   display: flex;
   height: 80px;
-  border: 1px solid red;
-  margin-bottom: 50px;
   align-items: center;
   background-color: #058aff;
+  margin: 0 1%;
   > div {
     display: flex;
     gap: 20px;

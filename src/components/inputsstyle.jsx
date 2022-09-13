@@ -23,7 +23,7 @@ export const SignWords2 = styled.h1`
 `;
 export const InputsWords = styled.input`
   border: none;
-  padding: 40px 90px;
+  padding: 30px 60px;
   cursor: pointer;
   font-size: 25px;
   background: rgba(232, 236, 255, 0.3);
@@ -41,7 +41,7 @@ export const InputWrapper = styled.div`
   background: rgba(232, 236, 255, 0.3);
   > i {
     position: absolute;
-    left: 25px;
+    left: 15px;
     font-size: 37px;
     color: #969393;
     margin-right: 1%;

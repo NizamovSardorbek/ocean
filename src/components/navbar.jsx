@@ -7,7 +7,7 @@ function Navbar() {
       <TopImage src={IconOcens} />
       <Wordslar>Home</Wordslar>
       <Wordslar>About</Wordslar>
-      <Wordslar>Service</Wordslar>
+      <Wordslar>Services</Wordslar>
       <Wordslar>Reviews</Wordslar>
       <Buttoncha>Get Starteed</Buttoncha><hr />
     </AllTop>

@@ -22,30 +22,33 @@ export const SignWords2 = styled.h1`
   color: #817e7e;
 `;
 export const InputsWords = styled.input`
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 45px;
-  width: 330px;
   border: none;
+  padding: 40px 90px;
   cursor: pointer;
   font-size: 25px;
   background: rgba(232, 236, 255, 0.3);
 `;
+export const MainWrapper = styled.div`
+  display: flex;
+  justify-content: center;
+`;
+
 export const InputWrapper = styled.div`
+  position: relative;
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 1px solid #058aff;
-  margin: 0 700px;
-  padding: 20px;
   background: rgba(232, 236, 255, 0.3);
   > i {
+    position: absolute;
+    left: 25px;
     font-size: 37px;
     color: #969393;
     margin-right: 1%;
   }
   > button {
+    position: absolute;
+    right: 25px;
     height: 44px;
     width: 100px;
     margin-left: 2%;

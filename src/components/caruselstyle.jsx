@@ -16,7 +16,7 @@ export const Card2 = styled.div`
 `;
 export const Blue = styled.div`
   background: #0088ff;
-  height: 198px;
+  height: auto;
   width: 14%;
   border-left: 1px solid #0082f4;
   border-radius: 8px;

@@ -8,6 +8,7 @@ import Contact from './components/contact';
 import Messengers from './components/messengers';
 import Navbar from './components/navbar';
 import Inputs from './components/inputs';
+import Carusels from './components/carusel';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -17,7 +18,8 @@ root.render(
     <Bottombar/>
     <Icons/>
     <Inputs/>
-    <Contact/>
+  <Carusels/>
+      <Contact/>
     <Messengers/>
   </React.StrictMode>
 );

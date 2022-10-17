@@ -23,7 +23,7 @@ function Bar() {
           Connecting people is our <Business>business</Business>
         </Connecting>
         <Rule>
-          As a rule the organization settles on the inventive and media choices.
+          As a rule the organization settles on the invensstive and media choices.
           Regularly it supplies supporting statistical.
         </Rule>
         <Buttons>
